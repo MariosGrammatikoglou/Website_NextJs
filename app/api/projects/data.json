@@ -1,0 +1,39 @@
+[
+	{
+		"id":1,
+		"title":"MyWebsite",
+		"description":"My Website built in HTML. It includes some of my projects.",
+		"link":"https://github.com/MariosGrammatikoglou/MyWebsite"
+	},
+	{
+		"id":2,
+		"title":"MyWebDesign",
+		"description":"Enjoy the design, buttons are not interactive.",
+		"link":"https://github.com/MariosGrammatikoglou/MyWebDesign"
+	},
+	{
+		"id":3,
+		"title":"BounceBallGameExe",
+		"description":"My first 2D game -> exe (unity)",
+		"link":"https://github.com/MariosGrammatikoglou/BounceBallGameExe"
+	},
+	{
+		"id":4,
+		"title":"BounceBallGame",
+		"description":"My first 2D game (unity).",
+		"link":"https://github.com/MariosGrammatikoglou/BounceBallGame"
+	},
+	{
+		"id":5,
+		"title":"MyConverter",
+		"description":"Encode and Decode using Base64 with a few changes on encoding.",
+		"link":"https://github.com/MariosGrammatikoglou/MyConverter"
+	},
+	{
+		"id":6,
+		"title":"Quiz",
+		"description":"Simple Valorant Quiz (HTML,CSS,JS)",
+		"link":"https://github.com/MariosGrammatikoglou/Quiz"
+	}
+
+]
